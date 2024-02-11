@@ -5,7 +5,40 @@
  * Distributed under terms of the All rights reserved license.
  */
 
+@font-face {
+    font-family: 'Amatic';
+    src: url('/font/Amatic.woff2') format('woff2'),
+        url('/font/Amatic.woff') format('woff'),
+        url('/font/Amatic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
 .fancy-bg {
     background: rgb(224,210,195);
     background: linear-gradient(157deg, rgba(224,210,195,1) 0%, rgba(188,216,183,1) 73%);
 }
+
+body {
+    color: #93827f;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #6ba292;
+    font-family: 'Amatic';
+}
+
+h1 {
+    font-size: 3em;
+}
+
+h2 {
+    font-size: 2.5em;
+}
+
+h3, h4, h5 {
+    font-size: 2em;
+}
+
+
