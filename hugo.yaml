@@ -1,0 +1,64 @@
+baseURL: https://reckenfeld.dorf-troedel.de
+languageCode: de-de
+title:
+theme: port-hugo
+params:
+  enable_logo: false
+  logo_link: https://dorf-troedel.de
+  plugins:
+    css:
+      - link: https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css
+      - link: https://pro.fontawesome.com/releases/v5.10.0/css/all.css
+      - link: https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.0/css/hover-min.css
+      - link: https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&display=swap
+      - link: plugins/hugrid/hugrid.css
+    js:
+      - link: https://code.jquery.com/jquery-3.5.1.min.js
+      - link: https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.js
+      - link: plugins/hugrid/hugrid.min.js
+  logo_light: /img/logo.png
+  logo_dark: /img/logo.png
+  copyright: Paul Schaefer &copy;
+  description: Dorftrödel Reckenfeld
+  titleshort: Dorftrödel Reckenfeld
+  author:
+    name: Paul Schaefer
+    email: paul.dorf-troedel@realcyber.de
+  preloader:
+    enable: true
+    preloader: img/preloader.gif
+menu:
+  main:
+    # - name: Home
+    #   URL: "#home"
+      # weight: 1
+    - name: Idee
+      URL: "#idea"
+      weight: 10
+    - name: Datum & Zeit
+      URL: "#date"
+      weight: 20
+    - name: Ablauf
+      URL: "#procedure"
+      weight: 30
+    - name: Dorfplatz
+      URL: "#location"
+      weight: 40
+    - name: Kosten
+      URL: "#pricing"
+      weight: 45
+    - name: Anmeldung
+      URL: "#register"
+      weight: 48
+    - name: Werbung & Plakate
+      URL: "#advertisement"
+      weight: 50
+    - name: Absagen & Erstattungen
+      URL: "#refund"
+      weight: 60
+    - name: Organisatoren
+      URL: "#about"
+      weight: 60
+    - name: Standübersicht
+      URL: "#overview"
+      weight: 70

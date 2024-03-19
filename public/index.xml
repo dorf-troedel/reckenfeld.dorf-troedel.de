@@ -1,11 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Reckenfeld trödelt on Dorf-Troedel</title>
-    <link>https://example.org/</link>
-    <description>Recent content in Reckenfeld trödelt on Dorf-Troedel</description>
+    <title>Dorftrödel Reckenfeld on </title>
+    <link>//192.168.2.111:1313/</link>
+    <description>Recent content in Dorftrödel Reckenfeld on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-de</language>
+    <managingEditor>paul.dorf-troedel@realcyber.de (Paul Schaefer)</managingEditor>
+    <webMaster>paul.dorf-troedel@realcyber.de (Paul Schaefer)</webMaster>
+    <lastBuildDate>Sat, 13 Jan 2024 13:01:54 +0100</lastBuildDate>
+    <atom:link href="//192.168.2.111:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshops</title>
+      <link>//192.168.2.111:1313/angebote/workshops/</link>
+      <pubDate>Sat, 13 Jan 2024 13:01:54 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/angebote/workshops/</guid>
+      <description>Herzlich willkommen bei meinen Workshops. In meinen Workshops werden grundlegende Themen aus der Hundeerziehung aber auch aus der Hundebeschäftigung thematisiert. Dieses Angebot findet hauptsächlich in den Sommermonaten statt und kann alleine oder auch als Zusatz zu einem Kurs gebucht werden. Hierbei handelt es sich um einzelne, nicht aufeinander aufbauende Unterrichtseinheiten.&#xA;Themen sind zum Beispiel:&#xA;Leinenführigkeit Dieser Workshop bietet eine ausgewogene Mischung aus Theorie und Praxis um den Teilnehmern die grundlegenden Fähigkeiten zur Leinenführigkeit zu vermitteln und ihnen die Möglichkeit zu geben, das Gelernte sofort mit ihren Hunden anzuwenden.</description>
+    </item>
+    <item>
+      <title>Social Walk</title>
+      <link>//192.168.2.111:1313/angebote/socialwalk/</link>
+      <pubDate>Thu, 04 Jan 2024 22:12:01 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/angebote/socialwalk/</guid>
+      <description>Social-Walk - eine aufregende und einzigartigen Gelegenheit für dich und deinen Vierbeiner, gemeinsam die Welt zu erkunden und dabei wichtige soziale Erfahrungen zu sammeln. Dieser besondere Spaziergang ist mehr als nur ein einfacher Spaziergang; er fördert das harmonische Miteinander von Mensch und Hund in einer entspannten und sozialen Umgebung.&#xA;Das Besondere am Social-Walk: Gemeinschaftsgefühl stärken: Der Social-Walk bringt dich und deinen Hund zusammen, um eine positive und unterstützende Gemeinschaft zu schaffen.</description>
+    </item>
+    <item>
+      <title>Einzelcoaching</title>
+      <link>//192.168.2.111:1313/angebote/einzelcoaching/</link>
+      <pubDate>Thu, 04 Jan 2024 08:57:58 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/angebote/einzelcoaching/</guid>
+      <description>Du möchtest gemeinsam mit mir in individuellen Coachings an der Bindung zwischen dir und deinem Hund und euren kleinen Baustellen arbeiten und die Möglichkeit nutzen, ein maßgeschneidertes Training für die spezifischen Bedürfnisse deines Hundes zu erhalten?&#xA;Kein Problem! Das Einzelcoaching - an einem individuell an das Training angepassten Ort - ermöglicht es uns, uns ganz auf dich und deinen vierbeinigen Freund zu konzentrieren, um gemeinsam an Herausforderungen zu arbeiten und die gewünschten Fertigkeiten zu perfektionieren.</description>
+    </item>
+    <item>
+      <title>Basiskurs</title>
+      <link>//192.168.2.111:1313/angebote/basiskurs/</link>
+      <pubDate>Sat, 23 Dec 2023 00:52:31 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/angebote/basiskurs/</guid>
+      <description>Herzlich willkommen zum Basiskurs, einem aufregenden Abenteuer, das nicht nur die Beziehung zwischen dir und deinem Vierbeiner vertiefen wird, sondern auch die Grundlagen für ein harmonisches Zusammenleben legt.&#xA;In meinem Basiskurs lege ich besonderen Wert darauf, nicht nur gehorsame Hunde zu formen, sondern auch ein tieferes Verständnis zwischen Mensch und Hund zu schaffen.&#xA;Kursinhalte Grunderziehung: Mein Basiskurs beginnt mit der Grunderziehung, bei der die grundlegenden Signale wie &amp;ldquo;Sitz&amp;rdquo;, &amp;ldquo;Platz&amp;rdquo;, &amp;ldquo;Hier&amp;rdquo; und „STOP“ vermittelt werden.</description>
+    </item>
+    <item>
+      <title>Erweiterungskurs</title>
+      <link>//192.168.2.111:1313/angebote/erweiterungskurs/</link>
+      <pubDate>Sat, 23 Dec 2023 00:52:31 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/angebote/erweiterungskurs/</guid>
+      <description>Willkommen zu meinem Erweiterungskurs – einer spannenden Reise für Hundebesitzer, die bereits die Grundlagen beherrschen und ihre Bindung zu ihrem treuen Begleiter weiter stärken möchten.&#xA;Dieser Kurs bietet nicht nur eine Vertiefung der Grundsignale, sondern auch anspruchsvollere Übungen, um die Fähigkeiten Ihres Hundes auf das nächste Level zu heben.&#xA;Kursinhalte Grundsignale Perfektionierte Grunderziehung: Wir verfeinern die Grundsignale, um eine noch höhere Präzision und Zuverlässigkeit in unterschiedlichen Situationen zu erreichen. Freies Fuß gehen: Die Leinenführigkeit wird auf die nächste Stufe gehoben.</description>
+    </item>
+    <item>
+      <title>Profikurs</title>
+      <link>//192.168.2.111:1313/angebote/profikurs/</link>
+      <pubDate>Sat, 23 Dec 2023 00:52:31 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/angebote/profikurs/</guid>
+      <description>Herzlich willkommen zu meinem Profikurs, einer exklusiven Gelegenheit für erfahrene Hundebesitzer, die ihre Fertigkeiten auf ein Expertenlevel heben möchten.&#xA;In diesem Kurs setzen wir hohe Maßstäbe, um die Bindung zwischen dir und deinem Hund zu vertiefen und gleichzeitig anspruchsvolle Fertigkeiten zu perfektionieren.&#xA;Kursinhalte Fortgeschrittenes Training auf Expertenniveau&#xA;Komplexe Gehorsamsübungen: Wir gehen über die Grundsignale hinaus und vermitteln dir fortgeschrittene Gehorsamsübungen, die eine präzise Kommunikation und schnelle Reaktion deines Hundes erfordern. Freies Training ohne Leine: Dein Hund wird lernen, auch ohne Leine gehorsam zu bleiben.</description>
+    </item>
+    <item>
+      <title>Welpenkurs</title>
+      <link>//192.168.2.111:1313/angebote/welpenkurs/</link>
+      <pubDate>Sat, 23 Dec 2023 00:52:31 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/angebote/welpenkurs/</guid>
+      <description>Herzlich willkommen zu meinem Welpenkurs – dem idealen Einstieg für die jüngsten Fellnasen in die aufregende Welt des Hundetrainings.&#xA;Dieser Kurs bietet nicht nur grundlegende Erziehungselemente, sondern fördert auch eine positive Bindung zwischen dir und deinem Welpen, während er spielerisch die ersten Schritte in die Welt des Gehorsams unternimmt.&#xA;Kursinhalte Sozialisierung: In den ersten Monaten ist Sozialisierung entscheidend. Dein Welpe wird die Gelegenheit haben, andere Welpen und Menschen in einer sicheren Umgebung zu treffen, um positive Erfahrungen zu sammeln.</description>
+    </item>
+    <item>
+      <title>Datenschutz</title>
+      <link>//192.168.2.111:1313/datenschutz/</link>
+      <pubDate>Sat, 23 Dec 2023 00:08:38 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/datenschutz/</guid>
+      <description>Diese Website wird durch die Server des Dienstleisters Netlify bereitgestellt. Die bei der Verwendung dieser Webseite anfallenden Metadaten werden dabei möglicherweise gespeichert. Bitte beachten Sie die Datenschutbestimmungen von Netlify unter https://answers.netlify.com/privacy.&#xA;Welche Daten werden erfasst Persönliche Informationen wie Name, E-Mail-Adresse, Telefonnummer, etc. Technische Informationen wie IP-Adresse, Browsertyp, Gerätetyp, etc. Wie werden die Daten genutzt Die erfassten Daten dienen ausschließlich dem Zweck der Bereitstellung dieses Dienstes. Wir geben Ihre Daten nicht ohne Ihre Zustimmung an Dritte weiter.</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>//192.168.2.111:1313/impressum/</link>
+      <pubDate>Sat, 23 Dec 2023 00:08:38 +0100</pubDate><author>paul.dorf-troedel@realcyber.de (Paul Schaefer)</author>
+      <guid>//192.168.2.111:1313/impressum/</guid>
+      <description>Verantwortlich für den Inhalt dieser Webseite:&#xA;Paul Schaefer Cyber Services&#xA;Pfarrer-Heidbreder-Straße 14&#xA;48268 Greven&#xA;paul.dorf-troedel@realcyber.de&#xA;Telefonnummer auf Anfrage.</description>
+    </item>
   </channel>
 </rss>

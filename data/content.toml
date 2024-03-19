@@ -1,0 +1,191 @@
+[hero]
+pre_title = ""
+title = ""
+occupations = []
+bg_image = "img/hero.png"
+mobile_bg_image = "img/hero.png"
+
+[about]
+enable = true
+image = "img/IMG_5685_01.jpg"
+title = "Die Idee"
+content = """
+Jeder hat Dies & Das in seinen Ecken liegen, was er nicht mehr braucht, aber einfach zu schade zum
+Wegwerfen ist! Warum also nicht nachhaltig handeln und dies Trödlern, Sammlern und Kaufinteressierten
+anbieten?
+
+Und da wir hier in der Gartenstadt Reckenfeld so viele schöne Viertel haben, warum nicht Trödeln vor
+der eigenen Haustür? Die Verkäufer*innen haben so den geringsten Aufwand, können an einem Sonntag mal
+wieder ausreichend mit Nachbarn schnacken und damit noch etwas Gutes tun. Denn alles, was wir hier
+umsetzten muss nicht entsorgt werden, sondern erfreut noch mindestens eine 2. Hand.
+
+Und das Beste zum Schluss: unser Ziel ist es, etwas Gutes für Reckenfeld IN Reckenfeld zu tun. Denn,
+der Reinerlös der Anmeldegebühr geht an eine Reckenfelder Einrichtung. Durch unseren 1.
+Dorfflohmarkt im Jahr 2023 freute sich die Reckenfelder Tafel über 1.000,00 € an Spenden. Wir werden
+uns pünktlich zum Dorfflohmarkttermin melden, wem der Erlös in diesem Jahr gespendet wird! 
+
+Um einen festen Anlaufpunkt für Trödler und Sammlern zu bieten, möchten wir dies ab 2024 jährlich
+stattfinden lassen.
+"""
+
+[between_1]
+enable = true
+img = "img/books-1842261_1920.jpg"
+
+[sections_1]
+enable=true
+
+[[sections_1.section]]
+id="date"
+title="Datum & Zeit"
+class=""
+content="""
+Sonntag, 02.06.2024,  11 Uhr - 16 Uhr
+"""
+
+[[sections_1.section]]
+id="procedure"
+class=""
+title="Ablauf"
+content="""
+Ganz einfach: mit der Anmeldung über WhatsApp oder E-Mail wird die Adresse des Standortes gemeldet.
+Wichtig: wir dürfen nur auf privaten Grundstücken anmelden! Solltet ihr Mieter sein, fragt dies
+bitte bei Eurem Vermieter an. Zusätzlich ist es wichtig zu wissen, dass weder Straßen noch Gehwege
+oder Einfahrten mit Eurem Stand blockiert werden dürfen.
+
+
+Eure Adresse ist nun also registriert und ihr bekommt die Aufforderung, die Anmeldegebühr zu zahlen.
+Erst nach der Zahlung ist Euer Stand „sicher“ in der Liste aufgenommen und wird später auf einer
+Karte visualisiert.
+
+
+Diese Karte dient am Dorfflohmarkttag nicht nur Euch als Austellern dazu, einen Überblick zu
+behalten. Viel wichtiger ist, dass ihr dadurch für alle Trödler & Sammler sichtbar seid.
+
+
+Bitte gebt daher unbedingt in Stichpunkten an, was es bei Euch zu finden gibt.
+"""
+
+[[sections_1.section]]
+id="location"
+class=""
+title="Dorfplatz"
+content = """
+Für die Reckenfelder*innen, die zu weit außerhalb wohnen und ihre ausrangierten Sachen nicht vor
+ihrer Tür anbieten wollen, haben wir die Chance, dass diese ihren Stand auf dem Markplatz
+aufschlagen können.
+
+Als Option stehen hier 3 Meter Standfläche mit Tapeziertischen oder alternativ auch ein 3x3 Meter
+Pavillon. Erweiterung der Standfläche dann jeweils ca. 3 Meter (3 Meter, 6 Meter, 9 Meter etc. Es
+wird eine Standgebühr pro 3 Meter erhoben) 
+
+Aufgrund der höheren Auflage durch die Stadt Greven und den damit verbundenen Abgaben an die Stadt,
+ist die Standgebühr hier nur "erhöht" möglich!
+"""
+
+[[sections_1.section]]
+id="pricing"
+title="Kosten"
+class=""
+content="""
+Für 2024 bleibt es bei einer Anmeldegebühr von 7 Euro, für alle, die zuhause ihren Stand aufschlagen.
+
+Ein Platz auf dem Dorfplatz ist für 10 Euro zu haben - jeweils 3 Meter lang, egal ob Pavillon oder Tische.
+"""
+
+[[sections_1.section]]
+id="register"
+title="Anmeldung"
+class=""
+content="""
+Du kannst Dich bequem per Whats App unter 0171 1931930 oder per E-Mail an
+[reckenfeldflohmarkt@gmx.de](mailto:reckenfeldflohmarkt@gmx.de)  anmelden.
+
+Wichtig für uns ist Deine Adresse + Hausnummer, sofern Du bei Dir vor der Haustür mitmachen
+möchtest. Solltest Du lieber auf dem Dorfplatz stehen, genügt Dein Name und die Information, dass du
+auf dem Dorfplatz stehen möchtest.
+
+Deine Anmeldung wird erst durch die Zahlung von 7,00€ per PayPal (Zahlung an Freunde & Familie)
+ausgelöst und verbindlich. Solltest Du kein PayPal haben, kontaktiere uns bitte und wir finden einen
+anderen Weg. Bei der Zahlung mit PayPal gebt Ihr bitte euren vollständigen Namen, sowie eure Adresse
+des Standes an. Sofern ihr auf dem Dorfplatz stehen möchtet, reicht Name und + Dorfplatz. 
+
+Folgende Kategorien könnt ihr angeben:
+
+- Trödel allgemein
+- Damenbekleidung
+- Herrenbekleidung
+- Alles rund ums Kind 
+- Bücher & CDs & Platten
+- Elektronik
+- Haushaltswaren
+- Garten & Co 
+- Musikinstrumente
+- Eisenbahn & Zubehör
+"""
+
+
+[between_2]
+enable = true
+img = "img/flea-market-343123.jpg"
+
+[sections_2]
+enable=true
+
+[[sections_2.section]]
+id="advertisement"
+title="Werbung & Plakate"
+content="""
+Unser Erfolg ist davon abhängig, dass ihr Eure Freunde, Familie und Nachbarn davon überzeugt, an dem
+Tag mitzumachen. Wir sorgen dafür, dass wir über Plakate, Anzeigen und Werbung in den sozialen
+Medien alles dafür tun, dass wirklich jeder Bescheid weiß 😊.
+
+Zusätzliche Kosten erwarten Euch hier also nicht, denn das ist alles mit Eurer Anmeldegebühr
+abgegolten.
+"""
+
+
+[[sections_2.section]]
+class=""
+id="refund"
+title="Absagen & Erstattungen"
+content="""
+Absagen und kurzfristige Stornierungen sind manchmal nicht zu verhindern. Wir bitten jedoch um
+Verständnis, dass wir bei einer Absage keine Rückerstattung vornehmen können. 
+
+Der Aufwand ist für uns genauso hoch und letztlich dient es dem guten Zweck.
+
+Euren Standort können wir dann jedoch von der Liste streichen, sodass sich am Verkaufstag keiner zu
+Euch verirrt.
+"""
+
+[[sections_2.section]]
+id="about"
+class=""
+title="Organisatoren"
+content="""
+Angefangen als 2-Mann-Show (zugegeben, wir sind zwei Frauen 😉 ), haben wir im letzten Jahr gemerkt, dass es ohne die tatkräftige Unterstützung unserer Familien nicht geht.
+
+Wer sind wir?
+
+Julia Braun, berufstätig und Mutter von zwei Kindern, kümmert sich um Flyer und Plakate. 
+
+Vanessa Rudolph, ebenfalls berufstätig und Mama einer Tochter, ist Mädchen für alles 😊. Sie kümmert sich um alles Organisatorische, verwaltet die Anmeldelisten und auch die Kasse. Einige von Euch kennen sie vielleicht auch aus dem Förderverein der Kita St. Franziskus, als sachkundige Bürgerin in der Fraktion Reckenfeld und jetzt eben auch als Hauptverantwortliche für den Dorfflohmarkt.
+
+Und unsere Familien unterstützen, wo es nur geht. Sei es beim Verteilen der Flyer und Plakate oder beim Bespaßen der Kinder, wenn wir mal wieder „trödeln“ 😊. 
+
+
+![Julia Braun und Vanessa Rudolph](/img/262-12259509.JPG)  
+Foto: Brigitte Striehn / Westfälische Nachrichten
+
+"""
+
+
+[contact]
+enable = true
+title = "Standübersicht"
+content = """
+Auf der folgenden Karte findest Du eine Übersicht aller angemeldeten Stände.
+"""
+
+

@@ -2,10 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>//192.168.2.111:1313/angebote/</loc>
+    <lastmod>2024-01-13T13:01:54+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>//192.168.2.111:1313/angebote/workshops/</loc>
+    <lastmod>2024-01-13T13:01:54+01:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>//192.168.2.111:1313/angebote/socialwalk/</loc>
+    <lastmod>2024-01-04T22:12:01+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/angebote/einzelcoaching/</loc>
+    <lastmod>2024-01-04T08:57:58+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/angebote/basiskurs/</loc>
+    <lastmod>2023-12-23T00:52:31+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/angebote/erweiterungskurs/</loc>
+    <lastmod>2023-12-23T00:52:31+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/angebote/profikurs/</loc>
+    <lastmod>2023-12-23T00:52:31+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/angebote/welpenkurs/</loc>
+    <lastmod>2023-12-23T00:52:31+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/datenschutz/</loc>
+    <lastmod>2023-12-23T00:08:38+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/impressum/</loc>
+    <lastmod>2023-12-23T00:08:38+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/</loc>
+    <lastmod>2023-12-21T22:58:08+01:00</lastmod>
+  </url><url>
+    <loc>//192.168.2.111:1313/categories/</loc>
+  </url><url>
+    <loc>//192.168.2.111:1313/tags/</loc>
   </url>
 </urlset>
