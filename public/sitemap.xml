@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//192.168.2.111:1313/angebote/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/angebote/</loc>
     <lastmod>2024-01-13T13:01:54+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/angebote/workshops/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/angebote/workshops/</loc>
     <lastmod>2024-01-13T13:01:54+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/angebote/socialwalk/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/angebote/socialwalk/</loc>
     <lastmod>2024-01-04T22:12:01+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/angebote/einzelcoaching/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/angebote/einzelcoaching/</loc>
     <lastmod>2024-01-04T08:57:58+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/angebote/basiskurs/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/angebote/basiskurs/</loc>
     <lastmod>2023-12-23T00:52:31+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/angebote/erweiterungskurs/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/angebote/erweiterungskurs/</loc>
     <lastmod>2023-12-23T00:52:31+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/angebote/profikurs/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/angebote/profikurs/</loc>
     <lastmod>2023-12-23T00:52:31+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/angebote/welpenkurs/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/angebote/welpenkurs/</loc>
     <lastmod>2023-12-23T00:52:31+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/datenschutz/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/datenschutz/</loc>
     <lastmod>2023-12-23T00:08:38+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/impressum/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/impressum/</loc>
     <lastmod>2023-12-23T00:08:38+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/</loc>
     <lastmod>2023-12-21T22:58:08+01:00</lastmod>
   </url><url>
-    <loc>//192.168.2.111:1313/categories/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/categories/</loc>
   </url><url>
-    <loc>//192.168.2.111:1313/tags/</loc>
+    <loc>https://reckenfeld.dorf-troedel.de/tags/</loc>
   </url>
 </urlset>

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>//192.168.2.111:1313/tags/</link>
+    <link>https://reckenfeld.dorf-troedel.de/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <managingEditor>paul.dorf-troedel@realcyber.de (Paul Schaefer)</managingEditor>
     <webMaster>paul.dorf-troedel@realcyber.de (Paul Schaefer)</webMaster>
-    <atom:link href="//192.168.2.111:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://reckenfeld.dorf-troedel.de/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

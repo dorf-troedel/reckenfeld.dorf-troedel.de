@@ -38,27 +38,15 @@ menu:
     - name: Datum & Zeit
       URL: "#date"
       weight: 20
-    - name: Ablauf
-      URL: "#procedure"
+    - name: Allgemeines
+      URL: "#general"
       weight: 30
-    - name: Dorfplatz
-      URL: "#location"
-      weight: 40
-    - name: Kosten
-      URL: "#pricing"
-      weight: 45
-    - name: Anmeldung
-      URL: "#register"
+    - name: Mitmachen
+      URL: "#join"
       weight: 48
-    - name: Werbung & Plakate
-      URL: "#advertisement"
+    - name: Sonstiges
+      URL: "#other"
       weight: 50
-    - name: Absagen & Erstattungen
-      URL: "#refund"
-      weight: 60
-    - name: Organisatoren
-      URL: "#about"
-      weight: 60
     - name: Standübersicht
       URL: "#overview"
       weight: 70

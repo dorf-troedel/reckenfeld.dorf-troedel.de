@@ -1527,28 +1527,28 @@ ul.experience-chart {
     }
 }
 
-h1, h2, h3, h4, h5 {
-    color: $dark_blue;
-}
-
-h2, h3, h4, h5 {
-    color: $dark_blue;
+h2 {
     font-family: 'Amatic', sans-serif;
     font-weight: 700;
     letter-spacing: 2px;
+    font-size: 3em;
+    color: $dark_blue;
+    padding-top: 1em;
 }
 
-h2 {
-    font-size: 3em;
+h3, h4, h5 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    margin-top: 0.5em;
+    margin-bottom: 0em;
 }
 
 h3 {
-    font-size: 2.75em;
-    letter-spacing: 1px;
+    font-size: 1.25em;
 }
 
 h4 {
-    font-size: 2em;
+    font-size: 1em;
 }
 
 .contact {

@@ -40,37 +40,18 @@ id="date"
 title="Datum & Zeit"
 class=""
 content="""
-Sonntag, 02.06.2024,  11 Uhr - 16 Uhr
+Der Reckenfelder Dorftrödel findet statt am:
+
+**Sonntag, 02.06.2024,  11 Uhr - 16 Uhr**
 """
 
 [[sections_1.section]]
-id="procedure"
+id="general"
 class=""
-title="Ablauf"
+title="Allgemeines"
 content="""
-Ganz einfach: mit der Anmeldung über WhatsApp oder E-Mail wird die Adresse des Standortes gemeldet.
-Wichtig: wir dürfen nur auf privaten Grundstücken anmelden! Solltet ihr Mieter sein, fragt dies
-bitte bei Eurem Vermieter an. Zusätzlich ist es wichtig zu wissen, dass weder Straßen noch Gehwege
-oder Einfahrten mit Eurem Stand blockiert werden dürfen.
+### NEU: Dorfplatz
 
-
-Eure Adresse ist nun also registriert und ihr bekommt die Aufforderung, die Anmeldegebühr zu zahlen.
-Erst nach der Zahlung ist Euer Stand „sicher“ in der Liste aufgenommen und wird später auf einer
-Karte visualisiert.
-
-
-Diese Karte dient am Dorfflohmarkttag nicht nur Euch als Austellern dazu, einen Überblick zu
-behalten. Viel wichtiger ist, dass ihr dadurch für alle Trödler & Sammler sichtbar seid.
-
-
-Bitte gebt daher unbedingt in Stichpunkten an, was es bei Euch zu finden gibt.
-"""
-
-[[sections_1.section]]
-id="location"
-class=""
-title="Dorfplatz"
-content = """
 Für die Reckenfelder*innen, die zu weit außerhalb wohnen und ihre ausrangierten Sachen nicht vor
 ihrer Tür anbieten wollen, haben wir die Chance, dass diese ihren Stand auf dem Markplatz
 aufschlagen können.
@@ -81,47 +62,54 @@ wird eine Standgebühr pro 3 Meter erhoben)
 
 Aufgrund der höheren Auflage durch die Stadt Greven und den damit verbundenen Abgaben an die Stadt,
 ist die Standgebühr hier nur "erhöht" möglich!
-"""
 
-[[sections_1.section]]
-id="pricing"
-title="Kosten"
-class=""
-content="""
+### Kosten
+
 Für 2024 bleibt es bei einer Anmeldegebühr von 7 Euro, für alle, die zuhause ihren Stand aufschlagen.
 
 Ein Platz auf dem Dorfplatz ist für 10 Euro zu haben - jeweils 3 Meter lang, egal ob Pavillon oder Tische.
 """
 
 [[sections_1.section]]
-id="register"
-title="Anmeldung"
+id="join"
+title="Mitmachen"
 class=""
 content="""
-Du kannst Dich bequem per Whats App unter 0171 1931930 oder per E-Mail an
-[reckenfeldflohmarkt@gmx.de](mailto:reckenfeldflohmarkt@gmx.de)  anmelden.
+Möchtest Du beim Reckenfelder Dorftrödel mitmachen? Hier ist der Ablauf:
 
-Wichtig für uns ist Deine Adresse + Hausnummer, sofern Du bei Dir vor der Haustür mitmachen
-möchtest. Solltest Du lieber auf dem Dorfplatz stehen, genügt Dein Name und die Information, dass du
-auf dem Dorfplatz stehen möchtest.
+### Anmeldung
+
+Du kannst dich bequem per WhatsApp unter 0171 1931930 oder per E-Mail an reckenfeldflohmarkt@gmx.de
+anmelden. Bitte gib uns deine Adresse und Hausnummer an, wenn Du an deinem Standort teilnehmen
+möchtest. Wenn Du lieber auf dem Dorfplatz stehen möchtest, genügt dein Name und die Information,
+dass Du dort stehen möchtest.
+
+### Zahlung
 
 Deine Anmeldung wird erst durch die Zahlung von 7,00€ per PayPal (Zahlung an Freunde & Familie)
-ausgelöst und verbindlich. Solltest Du kein PayPal haben, kontaktiere uns bitte und wir finden einen
-anderen Weg. Bei der Zahlung mit PayPal gebt Ihr bitte euren vollständigen Namen, sowie eure Adresse
-des Standes an. Sofern ihr auf dem Dorfplatz stehen möchtet, reicht Name und + Dorfplatz. 
+ausgelöst und verbindlich. Wenn Du kein PayPal hast, kontaktiere uns bitte, und wir finden einen
+anderen Weg. Bitte gib bei der PayPal-Zahlung deinen vollständigen Namen sowie die Adresse deines
+Standes an. Wenn Du auf dem Dorfplatz stehen möchtest, reicht Name und "Dorfplatz".
 
-Folgende Kategorien könnt ihr angeben:
+### Kategorien
+
+Bitte gib unbedingt in Stichpunkten an, was es bei Dir zu finden gibt. Die folgenden Kategorien
+kannst Du angeben:
 
 - Trödel allgemein
 - Damenbekleidung
 - Herrenbekleidung
-- Alles rund ums Kind 
+- Alles rund ums Kind
 - Bücher & CDs & Platten
 - Elektronik
 - Haushaltswaren
-- Garten & Co 
+- Garten & Co
 - Musikinstrumente
 - Eisenbahn & Zubehör
+
+Wichtig: Wir dürfen nur auf privaten Grundstücken anmelden! Solltest du Mieter sein, frag dies bitte bei deinem Vermieter an. Zusätzlich ist es wichtig zu wissen, dass weder Straßen noch Gehwege oder Einfahrten mit deinem Stand blockiert werden dürfen.
+
+Deine Adresse ist nun registriert, und du bekommst die Aufforderung, die Anmeldegebühr zu zahlen. Erst nach der Zahlung ist dein Stand "sicher" in der Liste aufgenommen und wird später auf einer Karte visualisiert. Diese Karte dient am Dorfflohmarkttag nicht nur dir als Aussteller dazu, einen Überblick zu behalten, sondern vor allem auch für alle Trödler & Sammler sichtbar zu sein.
 """
 
 
@@ -133,23 +121,20 @@ img = "img/flea-market-343123.jpg"
 enable=true
 
 [[sections_2.section]]
-id="advertisement"
-title="Werbung & Plakate"
+id="other"
+title="Sonstiges"
 content="""
+### Werbung & Plakate
+
 Unser Erfolg ist davon abhängig, dass ihr Eure Freunde, Familie und Nachbarn davon überzeugt, an dem
 Tag mitzumachen. Wir sorgen dafür, dass wir über Plakate, Anzeigen und Werbung in den sozialen
 Medien alles dafür tun, dass wirklich jeder Bescheid weiß 😊.
 
 Zusätzliche Kosten erwarten Euch hier also nicht, denn das ist alles mit Eurer Anmeldegebühr
 abgegolten.
-"""
 
+### Absagen & Erstattungen
 
-[[sections_2.section]]
-class=""
-id="refund"
-title="Absagen & Erstattungen"
-content="""
 Absagen und kurzfristige Stornierungen sind manchmal nicht zu verhindern. Wir bitten jedoch um
 Verständnis, dass wir bei einer Absage keine Rückerstattung vornehmen können. 
 
@@ -157,13 +142,9 @@ Der Aufwand ist für uns genauso hoch und letztlich dient es dem guten Zweck.
 
 Euren Standort können wir dann jedoch von der Liste streichen, sodass sich am Verkaufstag keiner zu
 Euch verirrt.
-"""
 
-[[sections_2.section]]
-id="about"
-class=""
-title="Organisatoren"
-content="""
+### Organisatoren
+
 Angefangen als 2-Mann-Show (zugegeben, wir sind zwei Frauen 😉 ), haben wir im letzten Jahr gemerkt, dass es ohne die tatkräftige Unterstützung unserer Familien nicht geht.
 
 Wer sind wir?
@@ -176,8 +157,7 @@ Und unsere Familien unterstützen, wo es nur geht. Sei es beim Verteilen der Fly
 
 
 ![Julia Braun und Vanessa Rudolph](/img/262-12259509.JPG)  
-Foto: Brigitte Striehn / Westfälische Nachrichten
-
+Foto: Oliver Hengst / Westfälische Nachrichten
 """
 
 
