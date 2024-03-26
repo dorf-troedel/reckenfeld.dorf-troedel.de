@@ -5,7 +5,7 @@ var coords = [];
     /*--------------------------------
          Start Preloader Animation
         ----------------------------------*/
-    $(window).on('load', function () {
+    $(window).on('load', async function () {
         $('.preloader').fadeOut(100);
 
         var map = L.map('location_map').setView([52.1283, 7.5501], 13);
@@ -14,6 +14,7 @@ var coords = [];
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
+        coords = await (await fetch('/coords.json')).json();
         for (const i in coords) {
             L.marker(coords[i].coord).addTo(map)
                 .bindPopup(coords[i].text);

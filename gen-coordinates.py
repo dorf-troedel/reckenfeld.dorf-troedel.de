@@ -21,32 +21,41 @@ import requests
 
 markers = []
 
+
 def find_coordinates(street):
-    city = '48268 Greven'
-    url = 'https://nominatim.openstreetmap.org/search?street=' + urllib.parse.quote(street) + '&city=' + urllib.parse.quote(city) + '&format=json'
+    city = "48268 Greven"
+    url = (
+        "https://nominatim.openstreetmap.org/search?street="
+        + urllib.parse.quote(street)
+        + "&city="
+        + urllib.parse.quote(city)
+        + "&format=json"
+    )
 
     response = requests.get(url).json()
     if response:
         thing = list(response).pop(0)
-        return thing['lat'], thing['lon']
+        return thing["lat"], thing["lon"]
     else:
         return -1, -1
 
-with open(sys.argv[1], encoding='utf-8') as f:
-    data = csv.reader(f, delimiter=";")
+
+with open(sys.argv[1], encoding="utf-8") as f:
+    # data = csv.reader(f, delimiter=";")
+    data = csv.DictReader(f, delimiter=",")
 
     for row in tqdm.tqdm(iter(data)):
-        street = '{} {}'.format(row[1].strip(), row[2].strip())
+        street = "{} {}".format(row["Strasse"].strip(), row["HausNR"].strip())
         lat, lon = find_coordinates(street)
 
-        text = f'{row[4]}<br>{street}'
-        if row[3]:
-            text += f'<br>{row[3]}'
+        text = f"{street}<br>{row['welche Angebote '] or 'Trödel'}"
 
-        markers.append({
-            'coord': [lat, lon],
-            'text': '{}<br>{}'.format(row[4], street),
-            'address': row[1] + ' ' + row[2]
-        })
+        markers.append(
+            {
+                "coord": [lat, lon],
+                "text": text,
+                "address": row["Strasse"].strip() + " " + row["HausNR"].strip(),
+            }
+        )
 
 print(json.dumps(markers))
