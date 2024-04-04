@@ -133,7 +133,7 @@ abgegolten.
 {{< rawhtml >}}
 <div style="text-align: center;">
 <a href="/downloads/Dorfflohmarkt_02.06.2024_Flyer.pdf" target="_blank">
-<img style="max-width: 30em" src="/downloads/Dorfflohmarkt_02.06.2024_Flyer.png" />
+<img style="max-width: min(100%, 30em);" src="/downloads/Dorfflohmarkt_02.06.2024_Flyer.png" />
 </a>
 </div>
 {{< /rawhtml >}}
