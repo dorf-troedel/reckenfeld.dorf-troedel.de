@@ -20,8 +20,8 @@ var coords = [];
                 .bindPopup(coords[i].text);
         }
         L.marker([52.12897,7.55076]).addTo(map)
-            .bindPopup('Dorfplatz Reckenfeld')
-            .openPopup();
+            .bindPopup('Dorfplatz Reckenfeld');
+            // .openPopup();
     });
 
     /*--------------------------------
