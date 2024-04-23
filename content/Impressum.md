@@ -11,6 +11,8 @@ Pfarrer-Heidbreder-Straße 14
 48268 Greven  
 paul.dorf-troedel@realcyber.de  
 
+[dorf-troedel.de](https://dorf-troedel.de)
+
 Telefonnummer auf Anfrage.
 
 {{< imgproc src="img/logo.png" mode="resize 600x webp q95"  >}}

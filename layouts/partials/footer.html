@@ -9,9 +9,15 @@
     {{ end }}
   </ul>
   <div class="credit">
+      <div>
       <a href="/impressum">Impressum</a> |
       <a href="/datenschutz">Datenschutz</a> |
-    {{ $.Site.Params.copyright | markdownify }}
-    <span id="current-year"></span>
+      <a href="https://dorf-troedel.de">Eigenen Dorftrödel organisieren?</a>
+      </div>
+      <div>
+
+          {{ $.Site.Params.copyright | markdownify }}
+          <span id="current-year"></span>
+      </div>
   </div>
 </div>
