@@ -19,8 +19,8 @@ var coords = [];
             L.marker(coords[i].coord).addTo(map)
                 .bindPopup(coords[i].text);
         }
-        L.marker([52.12897,7.55076]).addTo(map)
-            .bindPopup('Dorfplatz Reckenfeld');
+        L.marker([52.12897,7.55076], {icon: L.AwesomeMarkers.icon({icon: 'place-of-worship', prefix: 'fa', markerColor: 'darkred'}), zIndexOffset: 1000 }).addTo(map)
+            .bindPopup('Dorfplatz Reckenfeld<br>17 St&auml;nde');
             // .openPopup();
     });
 
