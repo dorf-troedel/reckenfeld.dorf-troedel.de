@@ -25,8 +25,8 @@ params:
     name: Paul Schaefer
     email: paul.dorf-troedel@realcyber.de
   preloader:
-    enable: true
-    preloader: img/preloader.gif
+    enable: false
+      # preloader: img/preloader.gif
 menu:
   main:
     # - name: Home
