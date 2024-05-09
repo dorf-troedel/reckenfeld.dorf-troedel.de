@@ -9,6 +9,7 @@
 
 """
 
+import time
 import csv
 import sys
 
@@ -32,7 +33,8 @@ def find_coordinates(street):
         + "&format=json"
     )
 
-    response = requests.get(url).json()
+    response = requests.get(url, headers={'User-Agent': 'Dorf-Troedel.de', 'Referer': 'dorf-troedel.de'})
+    response = response.json()
     if response:
         thing = list(response).pop(0)
         return thing["lat"], thing["lon"]
@@ -45,8 +47,10 @@ with open(sys.argv[1], encoding="utf-8") as f:
     data = csv.DictReader(f, delimiter=",")
 
     for row in tqdm.tqdm(iter(data)):
+    # for row in iter(data):
         street = "{} {}".format(row["Strasse"].strip(), row["HausNR"].strip())
         lat, lon = find_coordinates(street)
+        time.sleep(1)
 
         text = f"{street}<br>{row['welche Angebote '] or 'Trödel'}"
 
