@@ -172,5 +172,14 @@ title = "Standübersicht"
 content = """
 Auf der folgenden Karte findest Du eine Übersicht aller angemeldeten Stände.
 """
+content_below = """
+An den Ständen
+
+- Schwester-Dora-Strass	11 und
+- Rheinstrasse 40d
+
+gibt es außerdem frische Waffeln.
+
+"""
 
 

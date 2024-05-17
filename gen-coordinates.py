@@ -54,12 +54,23 @@ with open(sys.argv[1], encoding="utf-8") as f:
 
         text = f"{street}<br>{row['welche Angebote '] or 'Trödel'}"
 
-        markers.append(
-            {
-                "coord": [lat, lon],
-                "text": text,
-                "address": row["Strasse"].strip() + " " + row["HausNR"].strip(),
-            }
-        )
+        if 'waffeln' in row['Extras'].lower():
+            markers.append(
+                {
+                    "coord": [lat, lon],
+                    "text": text,
+                    "address": row["Strasse"].strip() + " " + row["HausNR"].strip(),
+                    "icon": """{icon: 'cookie', prefix: 'fas'}"""
+                    # "icon": """{icon: 'cookie', prefix: 'fas', markerColor: 'darkred'}"""
+                }
+            )
+        else:
+            markers.append(
+                {
+                    "coord": [lat, lon],
+                    "text": text,
+                    "address": row["Strasse"].strip() + " " + row["HausNR"].strip(),
+                }
+            )
 
 print(json.dumps(markers))

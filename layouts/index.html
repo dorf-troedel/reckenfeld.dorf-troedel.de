@@ -112,6 +112,7 @@
         {{ .content | markdownify | emojify }}
       <div id="location_map">
       </div>
+        {{ .content_below | markdownify | emojify }}
   </div>
 </section>
 {{ end }}
