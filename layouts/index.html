@@ -110,9 +110,26 @@
   <div class="container">
         <h2>{{ .title | safeHTML }}</h2>
         {{ .content | markdownify | emojify }}
+
       <div id="location_map">
       </div>
+      <div class="button-row">
+          <button class="category-selector" data-active="true" id="category-all">Alle anzeigen</button>
+          <button class="category-selector specific" data-active="true" keywords="bekleidung" id="category-bekleidung">Bekleidung</button>
+          <button class="category-selector specific" data-active="true" keywords="trödel" id="category-troedel">Tr&ouml;del</button>
+          <button class="category-selector specific" data-active="true" keywords="kind" id="category-kind">Alles ums Kind</button>
+          <button class="category-selector specific" data-active="true" keywords="haushalt" id="category-haushalt">Haushaltswaren</button>
+          <button class="category-selector specific" data-active="true" keywords="cd bücher" id="category-cds">CDs / Bücher</button>
+          <button class="category-selector specific" data-active="true" keywords="elektronik" id="category-electronics">Elektronik</button>
+          <button class="category-selector specific" data-active="true" keywords="garten" id="category-garden">Garten</button>
+          <button class="category-selector specific" data-active="true" keywords="spiel" id="category-spiele">Spiele</button>
+      </div>
         {{ .content_below | markdownify | emojify }}
+      <div class="container">
+          <h2>Liste der Stände</h2>
+          <p>Es wurden <span id="amount">0</span> Stände gefunden.</p>
+          <ul id="list-all"></ul>
+      </div>
   </div>
 </section>
 {{ end }}

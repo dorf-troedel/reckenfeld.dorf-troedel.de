@@ -60,7 +60,8 @@ with open(sys.argv[1], encoding="utf-8") as f:
                     "coord": [lat, lon],
                     "text": text,
                     "address": row["Strasse"].strip() + " " + row["HausNR"].strip(),
-                    "icon": """{icon: 'cookie', prefix: 'fas'}"""
+                    "icon": """{icon: 'cookie', prefix: 'fas'}""",
+                    "categories": row['welche Angebote '] or 'Trödel'
                     # "icon": """{icon: 'cookie', prefix: 'fas', markerColor: 'darkred'}"""
                 }
             )
@@ -71,6 +72,7 @@ with open(sys.argv[1], encoding="utf-8") as f:
                     "coord": [lat, lon],
                     "text": text,
                     "address": row["Strasse"].strip() + " " + row["HausNR"].strip(),
+                    "categories": row['welche Angebote '] or 'Trödel'
                 }
             )
 

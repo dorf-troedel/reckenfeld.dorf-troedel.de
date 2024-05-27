@@ -384,7 +384,19 @@ Foto: Oliver Hengst / Westfälische Nachrichten</p>
   <div class="container">
         <h2>Standübersicht</h2>
         Auf der folgenden Karte findest Du eine Übersicht aller angemeldeten Stände.
+
       <div id="location_map">
+      </div>
+      <div class="button-row">
+          <button class="category-selector" data-active="true" id="category-all">Alle anzeigen</button>
+          <button class="category-selector specific" data-active="true" keywords="bekleidung" id="category-bekleidung">Bekleidung</button>
+          <button class="category-selector specific" data-active="true" keywords="trödel" id="category-troedel">Tr&ouml;del</button>
+          <button class="category-selector specific" data-active="true" keywords="kind" id="category-kind">Alles ums Kind</button>
+          <button class="category-selector specific" data-active="true" keywords="haushalt" id="category-haushalt">Haushaltswaren</button>
+          <button class="category-selector specific" data-active="true" keywords="cd bücher" id="category-cds">CDs / Bücher</button>
+          <button class="category-selector specific" data-active="true" keywords="elektronik" id="category-electronics">Elektronik</button>
+          <button class="category-selector specific" data-active="true" keywords="garten" id="category-garden">Garten</button>
+          <button class="category-selector specific" data-active="true" keywords="spiel" id="category-spiele">Spiele</button>
       </div>
         <p>An den Ständen</p>
 <ul>
@@ -393,6 +405,11 @@ Foto: Oliver Hengst / Westfälische Nachrichten</p>
 </ul>
 <p>gibt es außerdem frische Waffeln.</p>
 
+      <div class="container">
+          <h2>Liste der Stände</h2>
+          <p>Es wurden <span id="amount">0</span> Stände gefunden.</p>
+          <ul id="list-all"></ul>
+      </div>
   </div>
 </section>
 
@@ -422,7 +439,7 @@ Foto: Oliver Hengst / Westfälische Nachrichten</p>
 
 <script src="/plugins/hugrid/hugrid.min.js"></script>
  <!-- Main Scripts --> 
-<script src="/js/script.min.js"></script>
+<script src="/js/script.js"></script>
 
 <script src="/js/hugrid.custom.min.js"></script>
 </body>
