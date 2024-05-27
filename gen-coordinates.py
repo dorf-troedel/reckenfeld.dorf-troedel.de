@@ -52,9 +52,9 @@ with open(sys.argv[1], encoding="utf-8") as f:
         lat, lon = find_coordinates(street)
         time.sleep(1)
 
-        text = f"{street}<br>{row['welche Angebote '] or 'Trödel'}"
 
         if 'waffeln' in row['Extras'].lower():
+            text = f"{street}<br><strong>Frische Waffeln</strong><br>{row['welche Angebote '] or 'Trödel'}"
             markers.append(
                 {
                     "coord": [lat, lon],
@@ -65,6 +65,7 @@ with open(sys.argv[1], encoding="utf-8") as f:
                 }
             )
         else:
+            text = f"{street}<br>{row['welche Angebote '] or 'Trödel'}"
             markers.append(
                 {
                     "coord": [lat, lon],
