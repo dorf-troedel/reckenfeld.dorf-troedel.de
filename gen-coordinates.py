@@ -53,8 +53,8 @@ with open(sys.argv[1], encoding="utf-8") as f:
         time.sleep(1)
 
 
-        if 'waffeln' in row['Extras'].lower():
-            text = f"{street}<br><strong>Frische Waffeln</strong><br>{row['welche Angebote '] or 'Trödel'}"
+        if len(row['Extras'].lower().strip()) > 0:
+            text = f"{street}<br><strong>{row['Extras']}</strong><br>{row['welche Angebote '] or 'Trödel'}"
             markers.append(
                 {
                     "coord": [lat, lon],
@@ -76,4 +76,5 @@ with open(sys.argv[1], encoding="utf-8") as f:
                 }
             )
 
+markers = sorted(markers, key=lambda marker: marker['address'])
 print(json.dumps(markers))
