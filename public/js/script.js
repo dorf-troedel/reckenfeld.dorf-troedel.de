@@ -91,7 +91,7 @@ function rebuildList() {
         redrawMarkers();
         rebuildList();
         L.marker([52.12897,7.55076], {icon: L.AwesomeMarkers.icon({icon: 'place-of-worship', prefix: 'fa', markerColor: 'darkred'}), zIndexOffset: 1000 }).addTo(map)
-            .bindPopup('Dorfplatz Reckenfeld<br>23 St&auml;nde<br>Hier gibt es quasi <i>alles</i>');
+            .bindPopup('Dorfplatz Reckenfeld<br>25 St&auml;nde<br>Hier gibt es quasi <i>alles</i>');
             // .openPopup();
         //
     });
