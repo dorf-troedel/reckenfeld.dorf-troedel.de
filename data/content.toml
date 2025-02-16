@@ -112,15 +112,6 @@ img = "img/flea-market-343123.jpg"
 [sections_2]
 enable=true
 
-# Flyer in Werbung & Plakate
-
-# {{< rawhtml >}}
-# <div style="text-align: center;">
-# <a href="/downloads/Dorfflohmarkt_02.06.2024_Flyer.pdf" target="_blank">
-# <img style="max-width: min(100%, 30em);" src="/downloads/Dorfflohmarkt_02.06.2024_Flyer.png" />
-# </a>
-# </div>
-# {{< /rawhtml >}}
 
 [[sections_2.section]]
 id="other"
@@ -134,6 +125,13 @@ jeder Bescheid weiß. 😊
 
 Zusätzliche Kosten entstehen für euch nicht, da alles durch die Anmeldegebühr abgedeckt ist.
 
+{{< rawhtml >}}
+<div style="text-align: center;">
+<a href="/downloads/Dorfflohmarkt_06.07.2025.pdf" target="_blank">
+<img style="max-width: min(100%, 30em);" src="/downloads/Dorfflohmarkt_06.07.2025-1.jpg" />
+</a>
+</div>
+{{< /rawhtml >}}
 
 ### Absagen & Erstattungen
 
