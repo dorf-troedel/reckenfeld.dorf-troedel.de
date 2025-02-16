@@ -87,13 +87,9 @@ function rebuildList() {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        coords = await (await fetch('/coords.json')).json();
+        coords = await (await fetch('/coords-2025.json')).json();
         redrawMarkers();
         rebuildList();
-        L.marker([52.12897,7.55076], {icon: L.AwesomeMarkers.icon({icon: 'place-of-worship', prefix: 'fa', markerColor: 'darkred'}), zIndexOffset: 1000 }).addTo(map)
-            .bindPopup('Dorfplatz Reckenfeld<br>25 St&auml;nde<br>Hier gibt es quasi <i>alles</i>');
-            // .openPopup();
-        //
     });
 
     $('.category-selector').on('click', (evnt) => {

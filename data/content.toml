@@ -10,22 +10,21 @@ enable = true
 image = "img/IMG_5685_01.jpg"
 title = "Die Idee"
 content = """
-Jeder hat Dies & Das in seinen Ecken liegen, was er nicht mehr braucht, aber einfach zu schade zum
-Wegwerfen ist! Warum also nicht nachhaltig handeln und dies Trödlern, Sammlern und Kaufinteressierten
-anbieten?
+Jeder hat Dinge, die er nicht mehr braucht, aber die zu schade sind, um sie wegzuwerfen. Warum also
+nicht nachhaltig handeln und diese Gegenstände Trödlern, Sammlern und Kaufinteressierten anbieten?
 
-Und da wir hier in der Gartenstadt Reckenfeld so viele schöne Viertel haben, warum nicht Trödeln vor
-der eigenen Haustür? Die Verkäufer*innen haben so den geringsten Aufwand, können an einem Sonntag mal
-wieder ausreichend mit Nachbarn schnacken und damit noch etwas Gutes tun. Denn alles, was wir hier
-umsetzten muss nicht entsorgt werden, sondern erfreut noch mindestens eine 2. Hand.
+In der Gartenstadt Reckenfeld gibt es viele wunderschöne Viertel – warum also nicht vor der eigenen
+Haustür trödeln? Die Verkäufer*innen haben so den geringsten Aufwand, können sich an einem Sonntag
+mit den Nachbarn austauschen und dabei noch etwas Gutes tun. Denn alles, was hier verkauft wird,
+muss nicht entsorgt werden, sondern findet eine neue Verwendung in der 2. Hand.
 
-Und das Beste zum Schluss: unser Ziel ist es, etwas Gutes für Reckenfeld IN Reckenfeld zu tun. Denn,
-der Reinerlös der Anmeldegebühr geht an eine Reckenfelder Einrichtung. Durch unseren 1.
-Dorfflohmarkt im Jahr 2023 freute sich die Reckenfelder Tafel über 1.000,00 € an Spenden. Wir werden
-uns pünktlich zum Dorfflohmarkttermin melden, wem der Erlös in diesem Jahr gespendet wird! 
+Das Beste kommt zum Schluss: Unser Ziel ist es, etwas Gutes für Reckenfeld zu tun – direkt in
+Reckenfeld! Der Reinerlös der Anmeldegebühr geht an die Reckenfelder Tafel. Beim ersten
+Dorfflohmarkt 2023 konnte die Tafel über 1.000 € an Spenden entgegennehmen. Auch beim 2.
+Dorfflohmarkt 2024 wurden erneut 650 € feierlich überreicht.
 
-Um einen festen Anlaufpunkt für Trödler und Sammlern zu bieten, möchten wir dies ab 2024 jährlich
-stattfinden lassen.
+Um den Trödlerinnen und Sammlerinnen einen festen Anlaufpunkt zu bieten, wird der Dorfflohmarkt
+künftig jedes Jahr stattfinden.
 """
 
 [between_1]
@@ -40,35 +39,17 @@ id="date"
 title="Datum & Zeit"
 class=""
 content="""
-Der Reckenfelder Dorftrödel findet statt am:
-
-**Sonntag, den 02.06.2024 von 11:00 - 16:00 Uhr**
+Der Reckenfelder Dorftrödel findet am **Sonntag den 06.07.2025 von 11:00 - 16:00 Uhr** statt.
 """
 
 [[sections_1.section]]
 id="general"
 class=""
-title="Allgemeines"
+title="Allgemeines & Kosten"
 content="""
-### NEU: Dorfplatz
+Für das Jahr 2025 bleibt die Anmeldegebühr bei 7 Euro
 
-Für die Reckenfelder*innen, die zu weit außerhalb wohnen und ihre ausrangierten Sachen nicht vor
-ihrer Tür anbieten wollen, haben wir die Chance, dass diese ihren Stand auf dem Markplatz
-aufschlagen können.
-
-Als Option stehen hier 3 Meter Standfläche mit Tapeziertischen oder alternativ auch ein 3x3 Meter
-Pavillon. Tische bzw. Pavillions müssen von den Teilnehmern mitgebracht werden. Erweiterung der
-Standfläche dann jeweils ca. 3 Meter (3 Meter, 6 Meter, 9 Meter etc. Es wird eine Standgebühr pro 3
-Meter erhoben) 
-
-Aufgrund der höheren Auflage durch die Stadt Greven und den damit verbundenen Abgaben an die Stadt,
-ist die Standgebühr hier nur "erhöht" möglich!
-
-### Kosten
-
-Für 2024 bleibt es bei einer Anmeldegebühr von 7 Euro, für alle, die zuhause ihren Stand aufschlagen.
-
-Ein Platz auf dem Dorfplatz ist für 10 Euro zu haben - jeweils 3 Meter lang, egal ob Pavillon oder Tische.
+- In diesem Jahr wird es keinen zusätzlichen (zeitgleich stattfindenden) Flohmarkt auf dem Dorfplatz geben!
 """
 
 [[sections_1.section]]
@@ -76,38 +57,51 @@ id="join"
 title="Mitmachen"
 class=""
 content="""
-Möchtest Du beim Reckenfelder Dorftrödel mitmachen? Hier ist der Ablauf:
+Du bist interessiert und möchtest mitmachen?
+Hier der Ablauf:
 
 ### Anmeldung
 
-Du kannst dich bequem per WhatsApp unter 0171 1931930 oder per E-Mail an reckenfeldflohmarkt@gmx.de
-anmelden. Bitte gib uns deine Adresse und Hausnummer an, wenn Du an deinem Standort teilnehmen
-möchtest. Wenn Du lieber auf dem Dorfplatz stehen möchtest, genügt dein Name und die Information,
-dass Du dort stehen möchtest. Bitte gib unbedingt in Stichpunkten an, was es bei Dir zu finden gibt.
-Die folgenden Kategorien kannst Du angeben:
+Du meldest Dich bequem per WhatsApp unter 0171 1931930 oder per E-Mail [reckenfeldflohmarkt@gmx.de](mailto:reckenfeldflohmarkt@gmx.de)
+an. Bitte gib uns unbedingt die Adresse und Hausnummer Deines Standes, damit wir Deinen Standort
+online sichtbar machen können.
+
+Anmeldeschluss für den eigenen Stand: 04.07.2025
+
+ 
+Wähle zudem aus diesen Kategorien, was bei Dir zu finden sein wird:
 
 - Trödel allgemein
 - Damenbekleidung
 - Herrenbekleidung
 - Alles rund ums Kind
-- Bücher & CDs & Platten
+- Deko
+- Musik, Filme, Bücher
 - Elektronik
-- Haushaltswaren
+- Hausrat
+- Möbel
+- Haushaltsauflösung
 - Garten & Co
 - Musikinstrumente
-- Eisenbahn & Zubehör
-
 
 ### Zahlung
 
-Deine Anmeldung wird erst durch die Zahlung von 7,00€ per PayPal (Zahlung an Freunde & Familie)
-ausgelöst und verbindlich. Wenn Du kein PayPal hast, kontaktiere uns bitte, und wir finden einen
-anderen Weg. Bitte gib bei der PayPal-Zahlung deinen vollständigen Namen sowie die Adresse deines
-Standes an. Wenn Du auf dem Dorfplatz stehen möchtest, reicht Name und "Dorfplatz".
+Deine Anmeldung wird erst mit der Zahlung von 7,00 € per PayPal (Zahlung an Freunde & Familie)
+verbindlich. Solltest du kein PayPal haben, melde dich einfach bei uns, und wir finden eine andere
+Lösung. Gib bei der Zahlung bitte deinen vollständigen Namen sowie die Adresse deines Standes an.
 
-**Wichtig:** Wir dürfen nur auf privaten Grundstücken anmelden! Solltest du Mieter sein, frag dies bitte bei deinem Vermieter an. Zusätzlich ist es wichtig zu wissen, dass weder Straßen noch Gehwege oder Einfahrten mit deinem Stand blockiert werden dürfen.
+Wichtig: Wir dürfen nur auf privaten Grundstücken anmelden! Falls du Mieter bist, kläre dies bitte
+vorher mit deinem Vermieter ab. Zudem dürfen weder Straßen, Gehwege noch Einfahrten durch deinen
+Stand blockiert werden.
 
-Deine Adresse ist nun registriert, und du bekommst die Aufforderung, die Anmeldegebühr zu zahlen. Erst nach der Zahlung ist dein Stand "sicher" in der Liste aufgenommen und wird später auf einer Karte visualisiert. Diese Karte dient am Dorfflohmarkttag nicht nur dir als Aussteller dazu, einen Überblick zu behalten, sondern vor allem auch für alle Trödler & Sammler sichtbar zu sein.
+Sobald deine Adresse registriert ist, erhältst du die Aufforderung zur Zahlung der Anmeldegebühr.
+Erst nach erfolgter Zahlung wird dein Stand als „sicher“ in die Liste aufgenommen und später auf
+einer Karte angezeigt. Der Status wird regelmäßig online aktualisiert.
+ 
+Falls du deinen Standort auf der Karte nicht findest, melde dich bitte bei uns!
+ 
+Diese Karte hilft nicht nur dir als Aussteller, einen Überblick zu behalten, sondern auch allen
+Trödlern und Sammlern am Dorfflohmarkttag.
 """
 
 
@@ -118,51 +112,60 @@ img = "img/flea-market-343123.jpg"
 [sections_2]
 enable=true
 
+# Flyer in Werbung & Plakate
+
+# {{< rawhtml >}}
+# <div style="text-align: center;">
+# <a href="/downloads/Dorfflohmarkt_02.06.2024_Flyer.pdf" target="_blank">
+# <img style="max-width: min(100%, 30em);" src="/downloads/Dorfflohmarkt_02.06.2024_Flyer.png" />
+# </a>
+# </div>
+# {{< /rawhtml >}}
+
 [[sections_2.section]]
 id="other"
 title="Sonstiges"
 content="""
 ### Werbung & Plakate
 
-Unser Erfolg ist davon abhängig, dass ihr Eure Freunde, Familie und Nachbarn davon überzeugt, an dem
-Tag mitzumachen. Wir sorgen dafür, dass wir über Plakate, Anzeigen und Werbung in den sozialen
-Medien alles dafür tun, dass wirklich jeder Bescheid weiß 😊.
+Der Erfolg hängt ganz davon ab, dass ihr Freunde, Familie und Nachbarn überzeugt, ebenfalls
+teilzunehmen. Wir kümmern uns darum, dass dank Plakaten, Anzeigen und Social-Media-Werbung wirklich
+jeder Bescheid weiß. 😊
 
-Zusätzliche Kosten erwarten Euch hier also nicht, denn das ist alles mit Eurer Anmeldegebühr
-abgegolten.
+Zusätzliche Kosten entstehen für euch nicht, da alles durch die Anmeldegebühr abgedeckt ist.
 
-{{< rawhtml >}}
-<div style="text-align: center;">
-<a href="/downloads/Dorfflohmarkt_02.06.2024_Flyer.pdf" target="_blank">
-<img style="max-width: min(100%, 30em);" src="/downloads/Dorfflohmarkt_02.06.2024_Flyer.png" />
-</a>
-</div>
-{{< /rawhtml >}}
 
 ### Absagen & Erstattungen
 
-Absagen und kurzfristige Stornierungen sind manchmal nicht zu verhindern. Wir bitten jedoch um
-Verständnis, dass wir bei einer Absage keine Rückerstattung vornehmen können. 
+Absagen und kurzfristige Stornierungen lassen sich manchmal nicht vermeiden. Wir bitten jedoch um
+Verständnis, dass wir bei einer Absage keine Rückerstattung der Anmeldegebühr vornehmen können.
 
-Der Aufwand ist für uns genauso hoch und letztlich dient es dem guten Zweck.
+Der Aufwand bleibt für uns unverändert, und letztlich kommt alles einem guten Zweck zugute.
 
-Euren Standort können wir dann jedoch von der Liste streichen, sodass sich am Verkaufstag keiner zu
-Euch verirrt.
+Solltet ihr bis Freitag, den 04.07., absagen, können wir euren Standort von der Liste nehmen, sodass
+sich am Verkaufstag niemand zu euch verirrt.
 
 ### Organisatoren
 
 Angefangen als 2-Mann-Show (zugegeben, wir sind zwei Frauen 😉 ), haben wir im letzten Jahr gemerkt, dass es ohne die tatkräftige Unterstützung unserer Familien nicht geht.
 
 #### Wer sind wir?
-Julia Braun, berufstätig und Mutter von zwei Kindern, kümmert sich um Flyer und Plakate. 
 
-Vanessa Rudolph, ebenfalls berufstätig und Mama einer Tochter, ist Mädchen für alles 😊. Sie kümmert sich um alles Organisatorische, verwaltet die Anmeldelisten und auch die Kasse. Einige von Euch kennen sie vielleicht auch aus dem Förderverein der Kita St. Franziskus, als sachkundige Bürgerin in der Fraktion Reckenfeld und jetzt eben auch als Hauptverantwortliche für den Dorfflohmarkt.
+Ende 2022 überlegten meine Freundin Julia und ich, ob es möglich wäre, in Reckenfeld einen
+Dorfflohmarkt zu veranstalten. Gesagt, getan – bereits 2023 und 2024 haben Julia und ich den
+Reckenfelder Dorftrödel erfolgreich organisiert. Für dieses Jahr möchte sich Julia jedoch verstärkt
+auf Familie & Co. konzentrieren, sodass das Projekt Dorfflohmarkt nun vollständig in den Händen der
+Familie Rudolph liegt.
 
-Und unsere Familien unterstützen, wo es nur geht. Sei es beim Verteilen der Flyer und Plakate oder beim Bespaßen der Kinder, wenn wir mal wieder „trödeln“ 😊. 
+Björn kümmert sich um Druck und Technik, während Vanessa die Flyer, Social Media und die Presse
+betreut und kräftig die Werbetrommel rührt. Sie übernimmt außerdem den Anmeldeprozess und steht bei
+Rückfragen (fast) jederzeit zur Verfügung.
 
+Unsere Tochter Juna hilft mit ihrer selbstgemachten Limonade beim Verkauf und sorgt mit ihrem
+Angebot an Spielsachen für reichlich Nachschub. :)
+ 
+Ein herzlicher Dank geht an https://dorf-troedel.de / https://realcyber.de für die Unterstützung bei der Website und der IT!
 
-![Julia Braun und Vanessa Rudolph](/img/262-12259509.JPG)  
-Foto: Oliver Hengst / Westfälische Nachrichten
 """
 
 
@@ -173,15 +176,6 @@ content = """
 Auf der folgenden Karte findest Du eine Übersicht aller angemeldeten Stände.
 """
 content_below = """
-Besonderes:
-
-- An der Schwester-Dora-Straße 11 gibt es frische Waffeln.
-- An der Rheinstraße 40d gibt es frische Waffeln.
-- An der Maria-Becker-Straße 40 gibt es Kaffee & Kuchen.
-- Am Wibbeltweg 14 gibt es Cookies & Kinderlimonade, Wasser & Kaffeespezialitäten.
-- An der Mainstraße 9 gibt es Cakepop Waffeln.
-
-
 """
 
 

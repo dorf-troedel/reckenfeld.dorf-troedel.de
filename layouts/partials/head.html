@@ -20,7 +20,7 @@
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}
 
-  {{ $styles := resources.Get "css/style.scss" | resources.ToCSS | minify }}
+  {{ $styles := resources.Get "css/style.scss" | css.Sass | minify }}
   <link rel="stylesheet" href="{{ $styles.RelPermalink }}" media="screen" />
 
   <link rel="stylesheet" href="/plugins/leaflet/leaflet.css" />

@@ -38,7 +38,7 @@ menu:
     - name: Datum & Zeit
       URL: "#date"
       weight: 20
-    - name: Allgemeines
+    - name: Allgemeines & Kosten
       URL: "#general"
       weight: 30
     - name: Mitmachen
