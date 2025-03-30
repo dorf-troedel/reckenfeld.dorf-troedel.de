@@ -48,6 +48,8 @@ with open(sys.argv[1], encoding="utf-8") as f:
 
     for row in tqdm.tqdm(iter(data)):
     # for row in iter(data):
+        if row["Name"] == "":
+            continue
         street = "{} {}".format(row["Strasse"].strip(), row["HausNR"].strip())
         lat, lon = find_coordinates(street)
         time.sleep(1)
