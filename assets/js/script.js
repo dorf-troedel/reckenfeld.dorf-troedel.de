@@ -8,6 +8,10 @@ function matches(coord) {
     const alle = $('#category-all').attr('data-active') == "true";
     var match = false;
 
+    if (coord.text.indexOf("Bürgerhaus Reckenfeld") !== -1) {
+        return true;
+    }
+
     if (alle) {
         return true;
     }
@@ -43,7 +47,7 @@ function redrawMarkers() {
             continue;
         }
         if (coords[i].icon) {
-            markers.push(L.marker(coords[i].coord, { icon: L.AwesomeMarkers.icon(coords[i].icon) }).addTo(map)
+            markers.push(L.marker(coords[i].coord, { icon: L.AwesomeMarkers.icon({prefix: "fa", icon: coords[i].icon, markerColor: "green"}) }).addTo(map)
                 .bindPopup(coords[i].text));
         }
         else {
@@ -93,8 +97,6 @@ function rebuildList() {
     });
 
     $('.category-selector').on('click', (evnt) => {
-        // console.log($(evnt.target).data('active'));
-
         if ($(evnt.target).attr('data-active') == "true") {
             if ($(evnt.target).attr('id') !== "category-all") {
                 $('#category-all').attr('data-active', 'false');

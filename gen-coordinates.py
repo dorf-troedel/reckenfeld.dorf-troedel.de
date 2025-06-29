@@ -51,18 +51,24 @@ with open(sys.argv[1], encoding="utf-8") as f:
         if row["Name"] == "":
             continue
         street = "{} {}".format(row["Strasse"].strip(), row["HausNR"].strip())
-        lat, lon = find_coordinates(street)
-        time.sleep(1)
+
+        if row["Koordinaten"] and row["Koordinaten"].strip() != "":
+            lat, lon = row["Koordinaten"].strip().split(",")
+            lat = lat.strip()
+            lon = lon.strip()
+        else:
+            lat, lon = find_coordinates(street)
+            time.sleep(1)
 
 
-        if len(row['Extras'].lower().strip()) > 0:
+        if len(row['Extras'].lower().strip()) > 0 or len(row["Icon Kategorie"].lower().strip()) > 0:
             text = f"{street}<br><strong>{row['Extras']}</strong><br>{row['welche Angebote '] or 'Trödel'}"
             markers.append(
                 {
                     "coord": [lat, lon],
                     "text": text,
                     "address": row["Strasse"].strip() + " " + row["HausNR"].strip(),
-                    "icon": """{icon: 'cookie', prefix: 'fas'}""",
+                    "icon": row['Icon Name'],
                     "categories": row['welche Angebote '] or 'Trödel'
                     # "icon": """{icon: 'cookie', prefix: 'fas', markerColor: 'darkred'}"""
                 }
