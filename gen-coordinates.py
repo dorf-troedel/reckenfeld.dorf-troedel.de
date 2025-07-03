@@ -58,7 +58,10 @@ with open(sys.argv[1], encoding="utf-8") as f:
             lon = lon.strip()
         else:
             lat, lon = find_coordinates(street)
-            time.sleep(1)
+            if lat == -1 or lon == -1:
+                print(f"Could not find coordinates for {street}", file=sys.stderr)
+            else:
+                time.sleep(1)
 
 
         if len(row['Extras'].lower().strip()) > 0 or len(row["Icon Kategorie"].lower().strip()) > 0:
